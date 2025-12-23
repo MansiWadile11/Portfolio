@@ -1,6 +1,6 @@
 # Mansi Wadile - Personal Portfolio Website
 
-![Portfolio Preview](https://mansiwadile11.github.io/Portfolio/) 
+![Portfolio Preview][(https://mansiwadile11.github.io/Portfolio/) ](https://mansiwadile11.github.io/Portfolio/)
 
 A modern, responsive single-page portfolio showcasing my journey as a **Full Stack Web Developer** with a focus on clean design, user experience, and AI-integrated applications.
 
