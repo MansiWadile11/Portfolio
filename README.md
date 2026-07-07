@@ -2,7 +2,7 @@
 
 ![Portfolio Preview][(https://mansiwadile11.github.io/Portfolio/) ](https://mansiwadile11.github.io/Portfolio/)
 
-A modern, responsive single-page portfolio showcasing my journey as a **Full Stack Web Developer** with a focus on clean design, user experience, and AI-integrated applications.
+A modern, responsive single-page portfolio showcasing my journey as a ** Android, Flutter and Full Stack Web Developer** with a focus on clean design, user experience, and AI-integrated applications.
 
 Built using the elegant **Luther** template by StyleShout, fully customized to reflect my personal brand, projects, and professional experience.
 
